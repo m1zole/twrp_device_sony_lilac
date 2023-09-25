@@ -21,7 +21,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_lilac
+PRODUCT_NAME := omni_lilac_dcm
 PRODUCT_DEVICE := lilac
 PRODUCT_BRAND := Sony
 PRODUCT_MODEL := G8441
